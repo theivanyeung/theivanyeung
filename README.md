@@ -10,9 +10,9 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
 Social Media:
 
-Email: ivan@hexahacks.com
-Website: https://www.ivanyeung.dev
-Instagram: https://www.instagram.com/theivanyeung
+ - Email: ivan@hexahacks.com
+ - Website: https://www.ivanyeung.dev
+ - Instagram: https://www.instagram.com/theivanyeung
 
 Projects I'm Working On:
 
