@@ -12,6 +12,7 @@ Social Media:
 
  - Email: ivan@hexahacks.com
  - Website: https://www.ivanyeung.dev
+ - LinkedIn: https://www.linkedin.com/in/ivan-yeung-79bb76212/
  - Instagram: https://www.instagram.com/theivanyeung
 
 Projects I'm Working On:
