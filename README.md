@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Ivan, a full-stack developer / entreprenuer currently residing in Bay Area, California. I have extensive experience with NextJS and Firebase as I am currently using the tech stack to develop Prodicity, a live-streaming platform focused on better interactions between creators and viewers as well as AI moderation. I am well-versed with JS, Java, and C++, and is currently working with Python for ML/DL development.
+I'm Ivan, a full-stack developer / entreprenuer currently residing in Bay Area, California. I have extensive experience with NextJS and Firebase as I am currently using the tech stack to develop Prodicity, a live-streaming platform focused on better interactions between creators and viewers as well as AI moderation. I am also working on DreamMate which is a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team. I am well-versed with JS, Java, and C++, and is currently working with Python for ML/DL development.
 
 In the past, I have created and failed two startups, LangSwap and Prodicity. LangSwap, a language-exchange platform, was developed by three founders. Prodicity, a gamified productivity SaaS, was developed by the same three founders with seven employees. 
 
@@ -17,6 +17,7 @@ Social Media:
 
 Projects I'm Working On:
 
+ - DreamMate (social media platform for college students to find a co-founder and build their teams)
  - Prodicity (live-streaming platform)
 
 Past Projects:
