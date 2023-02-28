@@ -1,9 +1,33 @@
-| ![foundhachiko](https://user-images.githubusercontent.com/58407773/221776301-78dcf96d-9d07-487b-aa5b-fc9c5b86a551.jpg) | **Hi there 👋** <br /><br /> I'm Ivan, a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. I have extensive experience with Deep Learning neural networks as well as NextJS and Firebase as I am currently using the tech stack to develop Prodicity, a live-streaming platform focused on better interactions between creators and viewers as well as AI moderation. I am also working on DreamMate which is a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team. I am well-versed with JS, Java, and C++, and is currently working with Python for ML/DL R&D. |
-|----------------|:----------------|
 
-In the past, I have created and failed two startups, LangSwap and Prodicity. LangSwap, a language-exchange platform, was developed by three founders. Prodicity, a gamified productivity SaaS, was developed by the same three founders with seven employees. 
+# Hi there 👋
+My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. I'm currently working on two startups: DreamMate, a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team, and Prodicity, a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. I am interested in ML/DL research & development.
 
-A bit about me outside my professional life: I enjoy the outdoors and reguarly travel to see the world. Some of my favorite activities include hiking, camping, and skiing. In my free time, I enjoy content creating as I have a Youtube Channel filled with piano content where I utilize 3d visual effects to enhance my performances.
+## Skills 🔧
+
+Languages:
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2a2a2a)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2a2a2a)
+![](https://img.shields.io/badge/C/C++-informational?style=flat&logo=c%2B%2B&color=2a2a2a)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2a2a2a)
+
+Libraries and Frameworks:
+![](https://img.shields.io/badge/Next.js-informational?style=flat&color=f5dcc4&textColor=2a2a2a)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=black&color=f5dcc4&textColor=2a2a2a)
+![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=2a2a2a&color=f5dcc4&textColor=2a2a2a)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=black&color=f5dcc4&textColor=2a2a2a)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&color=f5dcc4&textColor=2a2a2a)
+
+Tools and Technologies:
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=2a2a2a&color=white&textColor=2a2a2a)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=2a2a2a&color=white&textColor=2a2a2a)
+
+## My Github Stats 📈
+
+[![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/theivanyeung/theivanyeung)
+
+[![Ivan's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/theivanyeung/theivanyeung)
+
+---
 
 If you want to connect with me and talk, feel free to reach out to using any of the socials below.
 
@@ -33,34 +57,3 @@ If you want to connect with me and talk, feel free to reach out to using any of 
  - Titan Acacia Website
  - HexaHacks
  - Personal Website V1
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&layout=compact)
-
----
-
-### Skills
-
- - Deep Learning
-   + Deep NN
-   + Convolutional NN
-   + Recurrent NN
-   + Transformers NN
-   + Spiked NN
- - Full-stack development
-    + Nextjs
-    + Reactjs
-    + Firebase
-    + Nodejs
-    + MongoDB
-    + MySQL
-    + RestfulAPI
-    + 3rd party libraries
- - Programming
-    + Javascript ES6
-    + Python 3
-    + C++
-    + Java
- - Product development
- - Marketing
