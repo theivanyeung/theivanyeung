@@ -36,6 +36,10 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&layout=compact)
+
+---
+
 ### Skills
 
  - Deep Learning
