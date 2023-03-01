@@ -1,6 +1,10 @@
 
 # Hi there 👋
-My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. I'm currently working on two startups: DreamMate, a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team, and Prodicity, a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. I am also interested in ML/DL and automation R&D and strive to utilize the tech to solve global problems.
+My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.
+
+I'm currently working on two startups: 
+ - DreamMate, a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
+ - Prodicity, a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
 
 ## Skills 🔧
 
@@ -44,7 +48,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
  - DreamMate (social media platform for college students to find a co-founder and build their teams)
  - Prodicity (live-streaming platform)
- - Quack (customer service chatbot built on transformers NN with semi-reinforced learning)
+ - TARS (an AI bot that you can interact with through voice)
 
 ---
 
