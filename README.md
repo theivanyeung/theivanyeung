@@ -56,8 +56,8 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
  - Snake AI (AI model (DNN) trained with genetic algorithm to win snake)
  - Personal Website V2
- - Prodicity (gamified productivity SaaS) [failed]
- - LangSwap (language-exchange app) [failed]
+ - Prodicity (gamified productivity SaaS)
+ - LangSwap (language-exchange app)
  - Titan Acacia Website
  - HexaHacks
  - Personal Website V1
