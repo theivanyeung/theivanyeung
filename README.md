@@ -2,9 +2,12 @@
 # Hi there 👋
 My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.
 
-I'm currently working on two potential startups (for access to codebase, contact me): 
- - [**Prodicity**](https://www.prodicity.io/), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
- - [**DreamMate**](https://www.dreammate.io/), a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
+I'm currently working on a startup [pre-seed] (for access to codebase, contact me): 
+ - [**Vigama**](https://www.vigama.tech/), Vigama is an AI-powered personal assistant platform that learns about you and adapts to your needs, serving as a guiding figure, mentor, and emotional support.
+
+Past startups (codebases are public):
+ - [**Prodicity**](https://www.prodicity.io/) [repo](https://github.com/theivanyeung/Prodicity), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
+ - [**DreamMate**](https://www.dreammate.io/) [repo](https://github.com/theivanyeung/DreamMate), a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
 
 ## Skills 🔧
 
@@ -45,17 +48,17 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 ---
 
 ### Projects I'm Working On:
-
- - DreamMate (social media platform for college students to find a co-founder and build their teams)
- - Prodicity (live-streaming platform)
+ - Vigama (Personalized AI assistance for your digital life)
  - TARS (an AI bot that you can interact with through voice)
 
 ---
 
 ### Past Projects:
-
- - Snake AI (AI model (DNN) trained with genetic algorithm to win snake)
- - Personal Website V2
+ - [DreamMate](https://www.dreammate.io/) (social media platform for college students to find a co-founder and build their teams)
+ - [Prodicity](https://www.prodicity.io/) (live-streaming platform)
+ - [Personal Website V3](https://www.ivanyeung.dev) [repo](https://github.com/theivanyeung/personal-website-v3)
+ - Snake AI [repo](https://github.com/theivanyeung/snake-ai) (AI model (DNN) trained with genetic algorithm to win snake)
+ - [Personal Website V2](https://v2.ivanyeung.dev) [repo](https://github.com/theivanyeung/personal-website-v2)
  - Prodicity (gamified productivity SaaS)
  - LangSwap (language-exchange app)
  - Titan Acacia Website
