@@ -3,7 +3,7 @@
 My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.
 
 I'm currently working on a startup [pre-seed] (for access to codebase, contact me): 
- - [**Vigama**](https://www.vigama.tech/), Vigama is an AI-powered personal assistant platform that learns about you and adapts to your needs, serving as a guiding figure, mentor, and emotional support.
+ - [**Vigama**](https://www.vigama.tech/), an AI-powered personal assistance platform that learns about you and adapts to your needs, serving as a central hub to manage your digital chaos.
 
 Past startups (codebases are public):
  - [**Prodicity**](https://www.prodicity.io/) [[repo]](https://github.com/theivanyeung/Prodicity), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
@@ -40,7 +40,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
 ### Social Media:
 
- - Email: ivan@hexahacks.com
+ - Email: theivanyeung@gmail.com
  - Website: https://www.ivanyeung.dev
  - LinkedIn: https://www.linkedin.com/in/ivan-yeung-79bb76212/
  - Twitter: https://twitter.com/theivanyeung
@@ -48,7 +48,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 ---
 
 ### Projects I'm Working On:
- - Vigama (Personalized AI assistance for your digital life)
+ - [Vigama](https://www.vigama.tech/) (Personalized AI assistance for your digital life)
  - TARS (an AI bot that you can interact with through voice)
 
 ---
