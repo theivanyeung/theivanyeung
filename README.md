@@ -6,8 +6,8 @@ I'm currently working on a startup [pre-seed] (for access to codebase, contact m
  - [**Vigama**](https://www.vigama.tech/), Vigama is an AI-powered personal assistant platform that learns about you and adapts to your needs, serving as a guiding figure, mentor, and emotional support.
 
 Past startups (codebases are public):
- - [**Prodicity**](https://www.prodicity.io/) [repo](https://github.com/theivanyeung/Prodicity), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
- - [**DreamMate**](https://www.dreammate.io/) [repo](https://github.com/theivanyeung/DreamMate), a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
+ - [**Prodicity**](https://www.prodicity.io/) [[repo]](https://github.com/theivanyeung/Prodicity), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
+ - [**DreamMate**](https://www.dreammate.io/) [[repo]](https://github.com/theivanyeung/DreamMate), a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
 
 ## Skills 🔧
 
@@ -54,11 +54,11 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 ---
 
 ### Past Projects:
- - [DreamMate](https://www.dreammate.io/) (social media platform for college students to find a co-founder and build their teams)
- - [Prodicity](https://www.prodicity.io/) (live-streaming platform)
- - [Personal Website V3](https://www.ivanyeung.dev) [repo](https://github.com/theivanyeung/personal-website-v3)
- - Snake AI [repo](https://github.com/theivanyeung/snake-ai) (AI model (DNN) trained with genetic algorithm to win snake)
- - [Personal Website V2](https://v2.ivanyeung.dev) [repo](https://github.com/theivanyeung/personal-website-v2)
+ - [DreamMate](https://www.dreammate.io/) [[repo]](https://github.com/theivanyeung/Prodicity) (social media platform for college students to find a co-founder and build their teams)
+ - [Prodicity](https://www.prodicity.io/) [[repo]](https://github.com/theivanyeung/DreamMate) (live-streaming platform)
+ - [Personal Website V3](https://www.ivanyeung.dev) [[repo]](https://github.com/theivanyeung/personal-website-v3)
+ - Snake AI [[repo]](https://github.com/theivanyeung/snake-ai) (AI model (DNN) trained with genetic algorithm to win snake)
+ - [Personal Website V2](https://v2.ivanyeung.dev) [[repo]](https://github.com/theivanyeung/personal-website-v2)
  - Prodicity (gamified productivity SaaS)
  - LangSwap (language-exchange app)
  - Titan Acacia Website
