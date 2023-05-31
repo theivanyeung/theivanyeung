@@ -62,5 +62,5 @@ If you want to connect with me and talk, feel free to reach out to using any of 
  - Prodicity (gamified productivity SaaS)
  - LangSwap (language-exchange app)
  - Titan Acacia Website
- - HexaHacks
+ - [HexaHacks](https://hexahacks.com/)
  - Personal Website V1
