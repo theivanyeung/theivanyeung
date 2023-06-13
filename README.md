@@ -32,7 +32,7 @@ Tools and Technologies:
 
 [![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/theivanyeung/theivanyeung)
 
-[![Ivan's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/theivanyeung/theivanyeung)
+<!-- [![Ivan's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/theivanyeung/theivanyeung) -->
 
 ---
 
