@@ -19,20 +19,20 @@
 
 ## Skills 🔧
 
-Languages:
+***Languages:***
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2a2a2a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2a2a2a)
 ![](https://img.shields.io/badge/C/C++-informational?style=flat&logo=c%2B%2B&color=2a2a2a)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2a2a2a)
 
-Libraries and Frameworks:
+***Libraries and Frameworks:***
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&color=f5dcc4&textColor=2a2a2a)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=black&color=f5dcc4&textColor=2a2a2a)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=2a2a2a&color=f5dcc4&textColor=2a2a2a)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=black&color=f5dcc4&textColor=2a2a2a)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&color=f5dcc4&textColor=2a2a2a)
 
-Tools and Technologies:
+***Tools and Technologies:***
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=2a2a2a&color=white&textColor=2a2a2a)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=2a2a2a&color=white&textColor=2a2a2a)
 
