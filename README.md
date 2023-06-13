@@ -1,5 +1,5 @@
 # Hi there 👋
-**My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.🔥**
+**My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.** 🔥
 
 <p>
 <!--   <p align="center"> 
@@ -10,10 +10,10 @@
   <a href=#><img src="contributions.svg"></a>
 </p>
 
-**I'm currently working on a startup [pre-seed] (for access to codebase, contact me):** 
+**I'm currently working on a startup [pre-seed] (for access to codebase, contact me):** 🚀
  - [**Vigama**](https://www.vigama.tech/), an AI-powered personal assistance platform that learns about you and adapts to your needs, serving as a central hub to manage your digital chaos.
 
-**Past startups (codebases are public):**
+**Past startups (codebases are public):** 😎
  - [**Prodicity**](https://www.prodicity.io/) [[repo]](https://github.com/theivanyeung/Prodicity), a social media platform allowing college students to further expand their entreprenuerial endevours by finding co-founders and building their team
  - [**DreamMate**](https://www.dreammate.io/) [[repo]](https://github.com/theivanyeung/DreamMate), a live-streaming platform focused on direct interactions between creators and viewers as well as AI moderation. 
 
