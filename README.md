@@ -1,8 +1,8 @@
 <p>
-  <p align="center"> 
+<!--   <p align="center"> 
     Visitor Count<br>
     <img src="https://profile-counter.glitch.me/theivanyeung/count.svg" />
-  </p>
+  </p> -->
   
   <a href=#><img src="contributions.svg"></a>
 </p>
