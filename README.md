@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.
+**My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.**
 
 <p>
 <!--   <p align="center"> 
