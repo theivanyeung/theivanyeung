@@ -40,6 +40,12 @@
 
 [![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark)](https://github.com/theivanyeung/theivanyeung)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theivanyeung&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+[![Matej's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theivanyeung&langs_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Ivan's Top Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&show_icons=true&bg_color=2a2a2a&titleColor=fff&text_color=fff&icon_color=f5dcc4&theme=dark&hide=scss,css&count_private=true&langs_count=4&layout=default)](https://github.com/theivanyeung/theivanyeung) -->
 
 ---
