@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theivanyeung&theme=react&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-[![Matej's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theivanyeung&langs_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theivanyeung&langs_count=4&theme=react&hide_border=true&border_radius=5&layout=default&custom_title=Weekly%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theivanyeung&layout=compact&langs_count=6&theme=react&hide_border=true&hide=Hack)](https://github.com/anuraghazra/github-readme-stats)
 
