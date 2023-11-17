@@ -10,7 +10,7 @@
   <a href=#><img src="contributions.svg"></a>
 </p>
 
-**I'm currently working on a startup [pre-seed] (for access to codebase, contact me):** 🚀
+**Fun** 🚀
  - [**Vesper**](https://www.vigama.tech/), an AI-powered personal assistance platform that learns about you and adapts to your needs, serving as a central hub to manage your digital chaos.
 
 **Past startups (codebases are public):** 😎
