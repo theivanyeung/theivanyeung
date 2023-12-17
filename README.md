@@ -56,7 +56,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 
  - Email: theivanyeung@gmail.com
  - Website: https://www.ivanyeung.dev
- - LinkedIn: https://www.linkedin.com/in/ivan-yeung-79bb76212/
+ - LinkedIn: https://www.linkedin.com/in/theivanyeung
  - Twitter: https://twitter.com/theivanyeung
 
 ---
