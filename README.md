@@ -2,7 +2,7 @@
 
 *An effective altruist working towards expanding human intelligence*
 
-**My name is Ivan, and I'm a full-stack developer / deep-learning engineer / entrepreneur currently residing in Bay Area, California. My passions includes building products to advance the current social organization, economic development, and tech sector! Currently, I express great interest in ML/DL and is researching and developing different AI algorithms and models.** 🔥
+**My name is Ivan, and I'm a founder & builder focused on expanding human consciousness and intelligence through education, augmented cognition, and neurotechnology. Current building Prodicity, an organization mentorship and college consultation EdTech startup, and Vesper, an AI-driven platform designed to augment human cognition. Passionate about AI, physics (very small things + very build things = very awesome things!), and computational neuroscience, with a deep interest in classical progressivism and transhumanism to help build a future worth being excited about.** 🔥
 
 <p>
 <!--   <p align="center"> 
