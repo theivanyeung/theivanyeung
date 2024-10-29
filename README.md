@@ -62,6 +62,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
  - Website: https://www.ivanyeung.dev
  - LinkedIn: https://www.linkedin.com/in/theivanyeung
  - Twitter: https://twitter.com/theivanyeung
+ - YouTube: https://www.youtube.com/@ivanbuildthings3317
 
 ---
 
