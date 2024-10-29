@@ -66,7 +66,7 @@ If you want to connect with me and talk, feel free to reach out to using any of 
 ---
 
 ### Projects I'm Working On:
- - [Vigama](https://www.vigama.tech/) (Personalized AI assistance for your digital life)
+ - [Vesper](https://www.vigama.tech/) (Personalized AI assistance for your digital life)
  - TARS (an AI bot that you can interact with through voice)
 
 ---
