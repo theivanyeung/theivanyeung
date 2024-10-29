@@ -14,6 +14,7 @@
 </p>
 
 **Fun** 🚀
+ - [**Prodicity**](https://www.prodicity.org/), providing organization mentorship and college consultation.
  - [**Vesper**](https://www.vigama.tech/), an AI-powered personal assistance platform that learns about you and adapts to your needs, serving as a central hub to manage your digital chaos.
 
 **Past startups (codebases are public):** 😎
